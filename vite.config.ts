@@ -12,5 +12,5 @@ export default defineConfig({
       assets: '/src/assets',
     },
   },
-  base: '/goals-achiever-react/',
+  base: '/bc66-react-node-tim-pashkevych/',
 });
