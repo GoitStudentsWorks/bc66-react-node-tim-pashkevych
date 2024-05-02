@@ -9,7 +9,7 @@ import { store, persistor } from './redux/index.js';
 import App from './App.jsx';
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
-  <BrowserRouter basename="/goals-achiever-react">
+  <BrowserRouter basename="/bc66-react-node-tim-pashkevych">
     <Provider store={store}>
       <PersistGate loading={null} persistor={persistor}>
         <App />
